@@ -21,3 +21,9 @@
   <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 </p>
+
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImAnonFR&show_icons=true&include_all_commits=true&theme=radical" alt="ImAnon github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAnonFR&layout=compact&theme=radical" />
+</p>
