@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A French guy who likes to type on his keyboard. Be Happy!
+  A French guy who likes to type on his keyboard. Be Safe Be Happy!
 </p>
 
 <p align='center'>
