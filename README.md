@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/48x48.png"/>
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 
@@ -28,3 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImAnonFR&show_icons=true&include_all_commits=true&theme=radical" alt="ImAnon github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAnonFR&layout=compact&theme=radical" />
 </p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
