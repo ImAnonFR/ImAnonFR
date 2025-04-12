@@ -28,3 +28,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImAnonFR&show_icons=true&include_all_commits=true&theme=radical" alt="ImAnon github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAnonFR&layout=compact&theme=radical" />
 </p>
+
+<p align='center'>
+  View counter :
+</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ImAnonFR/count.svg?"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImAnonFR/ImAnonFR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImAnonFR/ImAnonFR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ImAnonFR/ImAnonFR/output/pacman-contribution-graph.svg">
+</picture
