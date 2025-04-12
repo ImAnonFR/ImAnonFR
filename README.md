@@ -28,5 +28,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImAnonFR&show_icons=true&include_all_commits=true&theme=radical" alt="ImAnon github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAnonFR&layout=compact&theme=radical" />
 </p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
